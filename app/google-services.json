@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443196187089",
+    "project_id": "vitto-task",
+    "storage_bucket": "vitto-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443196187089:android:be77e1c08c1c35763140f0",
+        "android_client_info": {
+          "package_name": "com.example.vittotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443196187089-nmmf6ikohru4a4e4jc72ipd8nk9na8ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu2qP93HEKR_62UU3b_tGjhc9R5UHB5QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443196187089-nmmf6ikohru4a4e4jc72ipd8nk9na8ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
